@@ -1,2 +1,2 @@
-# Exerc-cios-POO---revis-o
+# Exercicios-POO---revisao
 Exercícios para revisar e começar a estudar POO
