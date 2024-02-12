@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\bin\Debug\Exercicio 20 POO.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\bin\Debug\Exercicio 20 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\bin\Debug\Exercicio 20 POO.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\obj\Debug\Exercicio 20 POO.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\obj\Debug\Exercicio 20 POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\obj\Debug\Exercicio 20 POO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\obj\Debug\Exercicio 20 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 20 POO\Exercicio 20 POO\obj\Debug\Exercicio 20 POO.pdb
