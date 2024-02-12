@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\bin\Debug\xercicio 13 POO.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\bin\Debug\xercicio 13 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\bin\Debug\xercicio 13 POO.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\obj\Debug\xercicio 13 POO.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\obj\Debug\xercicio 13 POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\obj\Debug\xercicio 13 POO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\obj\Debug\xercicio 13 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\xercicio 13 POO\xercicio 13 POO\obj\Debug\xercicio 13 POO.pdb
