@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\obj\Debug\Exercicio 29 POO.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\obj\Debug\Exercicio 29 POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\obj\Debug\Exercicio 29 POO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\bin\Debug\Exercicio 29 POO.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\bin\Debug\Exercicio 29 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\bin\Debug\Exercicio 29 POO.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\obj\Debug\Exercicio 29 POO.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Exercicio 29 POO\Exercicio 29 POO\obj\Debug\Exercicio 29 POO.pdb
