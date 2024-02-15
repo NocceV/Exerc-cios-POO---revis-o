@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\bin\Debug\Revisao00 POO Codigo professor Caram.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\bin\Debug\Revisao00 POO Codigo professor Caram.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\bin\Debug\Revisao00 POO Codigo professor Caram.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\obj\Debug\Revisao00 POO Codigo professor Caram.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\obj\Debug\Revisao00 POO Codigo professor Caram.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\obj\Debug\Revisao00 POO Codigo professor Caram.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\obj\Debug\Revisao00 POO Codigo professor Caram.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Revisao00 POO Codigo professor Caram\Revisao00 POO Codigo professor Caram\obj\Debug\Revisao00 POO Codigo professor Caram.pdb
