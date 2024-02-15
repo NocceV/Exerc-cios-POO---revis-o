@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\obj\Debug\Aula Caram Modulos.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\obj\Debug\Aula Caram Modulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\obj\Debug\Aula Caram Modulos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
