@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\bin\Debug\Horas Tentativa de resoloçãp.exe.config
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\bin\Debug\Horas Tentativa de resoloçãp.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\bin\Debug\Horas Tentativa de resoloçãp.pdb
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\obj\Debug\Horas Tentativa de resoloçãp.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\obj\Debug\Horas Tentativa de resoloçãp.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\obj\Debug\Horas Tentativa de resoloçãp.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\obj\Debug\Horas Tentativa de resoloçãp.exe
+C:\Users\vitor\source\repos\Exerc-cios-POO---revis-o\Exercicios POO\Horas Tentativa de resoloçãp\Horas Tentativa de resoloçãp\obj\Debug\Horas Tentativa de resoloçãp.pdb

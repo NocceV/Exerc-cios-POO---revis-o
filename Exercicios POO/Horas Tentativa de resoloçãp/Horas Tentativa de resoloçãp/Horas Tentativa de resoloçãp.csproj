@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19887ADE-750A-4B80-9F1B-4AD6950A2F5D}</ProjectGuid>
+    <ProjectGuid>{8BAD1AF2-4733-4742-8671-239155224677}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aula_Caram_22_02</RootNamespace>
-    <AssemblyName>Aula Caram 22-02</AssemblyName>
+    <RootNamespace>Horas_Tentativa_de_resoloçãp</RootNamespace>
+    <AssemblyName>Horas Tentativa de resoloçãp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
