@@ -167,7 +167,6 @@ namespace Horas_Tentativa_de_resoloçãp
                 hora= (byte)horaReal;
             }
 
-
         }
 
 
